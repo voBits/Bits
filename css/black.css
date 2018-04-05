@@ -10,7 +10,9 @@ body {
   overflow-y: hidden;
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
-  background: #1E2B34;
+  /*background: #1E2B34;
+  color: #ced2d5;*/
+  background: #000;
   color: #ced2d5;
 }
 
@@ -38,13 +40,13 @@ body::-webkit-scrollbar,
 
 body::-webkit-scrollbar-track,
 .scroll::-webkit-scrollbar-track {
-	background: #15232c;
+	background: #C0392B;
 }
 
 body::-webkit-scrollbar-thumb,
 .scroll::-webkit-scrollbar-thumb {
-  background-color: #233540;
-  border: 1px solid #233540;
+  background-color: #1E88E5;
+  border: 1px solid #1E88E5;
   transition: all 0.2s ease-out;
 }
 
@@ -98,19 +100,19 @@ a.navbar-brand {
   float: none;
 }
 .row .no-float:not(:last-child) {
-	border-right: 2px solid #18252E;
+	border-right: 2px solid #fefefe;
 }
 
 .row-header {
   width: 100%;
   padding: 8px;
   height: 38px;
-  background: #2f3d45;
+  background: #1E88E5;
   font-size: 16px;
   font-weight: bold;
   text-transform: capitalize;
   color: #fff;
-  border-bottom: 2px solid #18252E;
+  border-bottom: 2px solid #fefefe;
 }
 
 .row-box {
@@ -142,7 +144,7 @@ a.navbar-brand {
 }
 .row-box.table-header {
   height: 35px;
-  border-bottom: 1px solid #15232c;
+  border-bottom: 1px solid #C0392B;
   padding-top: 5px;
 }
 tr.table-header {
@@ -152,7 +154,7 @@ tr.table-header {
 }
 
 .table-header {
-  border-bottom: 2px solid #18252E;
+  border-bottom: 2px solid #fefefe;
 }
 
 tr.mid-header {
@@ -187,7 +189,7 @@ tr.clickable-row:hover {
 
 .row-box.nav-header {
   height: 35px;
-  border-bottom: 1px solid #15232c;
+  border-bottom: 1px solid #C0392B;
 }
 
 .nav-tabs > li > a {
@@ -213,13 +215,13 @@ tr.clickable-row:hover {
   line-height: 17px;
   width: 100%;
   text-align: center;
-  background: #2f3d45;
+  background: #1E88E5;
   color: #fff;
   border: 0;
 }
 .nav-tabs.columns > li.active > a {
   color: #fff;
-  background: #15232c;
+  background: #C0392B;
   border: 0;
 }
 .nav-tabs.columns > li > a:hover {
@@ -229,7 +231,7 @@ tr.clickable-row:hover {
 }
 
 .nav-tabs.columns > li.active > a:hover {
-  background: #15232c;
+  background: #C0392B;
   color: #fff;
 }
 
@@ -393,7 +395,6 @@ pre code {
 
 #chartPrice {
   overflow: hidden;
-  background: #1E2B34 !important;
 }
 
 #chartPrice [fill="#cccccc"] {
@@ -406,7 +407,6 @@ pre code {
 
 #chartDepth {
   overflow: hidden;
-  background: #1E2B34 !important;
 }
 
 #chartDepth [fill="#cccccc"] {
@@ -471,7 +471,7 @@ pre code {
 
 #bs-example-navbar-collapse-1 .navbar-nav a {
   font-weight: bold;
-  color: #15232c !important;
+  color: #C0392B !important;
   font-size: 12px;
 }
 
@@ -480,7 +480,7 @@ pre code {
 }
 
 .badge {
-  background-color: #2f3d45;
+  background-color: #1E88E5;
 }
 
 .label-success {
@@ -650,7 +650,7 @@ fieldset[disabled] .form-control {
 .modal-header {
   color: #ced2d5;
   background: #1E2B34;
-  border-bottom: 2px solid #18252E;
+  border-bottom: 2px solid #fefefe;
 }
 
 .alertify .ajs-header .fa,
@@ -662,7 +662,7 @@ fieldset[disabled] .form-control {
 .modal-footer {
   color: #ced2d5;
   background: #1E2B34;
-  border-top: 2px solid #18252E;
+  border-top: 2px solid #fefefe;
 }
 
 .alertify .ajs-footer .ajs-buttons.ajs-auxiliary .ajs-button,
