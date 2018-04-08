@@ -173,6 +173,7 @@
     { "addr": "0x202e295df742befa5e94e9123149360db9d9f2dc", "name": "NIH", "decimals": 8 },
     { "addr": "0x2160e6c0ae8ca7d62fe1f57fc049f8363283ff5f", "name": "BPT", "decimals": 18 },
     { "addr": "0x2167fb82309cf76513e83b25123f8b0559d6b48f", "name": "LION", "decimals": 18 },
+    { "addr": "0x5f7d95329e806befa024982e91b7127393737249", "name": "BAAP", "decimals": 18 },
     { "addr": "0x21692a811335301907ecd6343743791802ba7cfd", "name": "ADU", "decimals": 18 },
     { "addr": "0x219218f117dc9348b358b8471c55a073e5e0da0b", "name": "GRX", "decimals": 18 },
     { "addr": "0x222728c202e7164dfbd127181d46409338c4328e", "name": "MIND", "decimals": 18 },
