@@ -2,8 +2,9 @@ var searchBarHook = setInterval(function(){
 	var dropdownMenu = document.getElementById("tokensDropdown").getElementsByClassName("dropdown-menu")[0];
 	if(dropdownMenu)
 	{
-		dropdownMenu.innerHTML = '<li><input id="token_search" style="border:none;color:black;text-align:center;" placeholder="Search for tokens..."/></li>'+dropdownMenu.innerHTML;
-		
+		var newItem = document.createElement("li");
+		newItem.innerHTML = '<input id="token_search" style="border:none;color:black;text-align:center;" placeholder="Search for tokens..."/>';
+		dropdownMenu.insertBefore(newItem, dropdownMenu.childNodes[0]);
 		clearInterval(searchBarHook);
 		$("#token_search").bind('input', function() { 
 		  var input, filter, ul, li, a, i;
