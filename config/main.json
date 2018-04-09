@@ -61,6 +61,8 @@
     { "addr": "0x07d9e49ea402194bf48a8276dafb16e4ed633317", "name": "DALC", "decimals": 8 },
     { "addr": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f", "name": "DLT", "decimals": 18 },
     { "addr": "0x082e13494f12ebb7206fbf67e22a6e1975a1a669", "name": "ARTIS", "decimals": 8 },
+    { "addr": "0xa3ceac0aac5c5d868973e546ce4731ba90e873c2", "name": "STOR", "decimals": 8 },
+    { "addr": "0x6287f59eb93c85b02b0d7ce11b5df51823275eb5", "name": "CDM", "decimals": 0 },
     { "addr": "0x0835ecd15ddf08d4786304d71b4672dc5c40f011", "name": "PLC", "decimals": 18 },
     { "addr": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c", "name": "EDG", "decimals": 0 },
     { "addr": "0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f", "name": "LTG", "decimals": 0 },
