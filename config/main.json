@@ -57,6 +57,7 @@
     { "addr": "0x06147110022b768ba8f99a8f385df11a151a9cc8", "name": "ACE", "decimals": 0 },
     { "addr": "0xac838aee2f650a6b970ecea56d4651653c1f84a1", "name": "CLR", "decimals": 8 },
     { "addr": "0x0766e79a6fd74469733e8330b3b461c0320ff059", "name": "EXN", "decimals": 18 },
+    { "addr": "0xc67e01f0b416b884a2896fae3401e86d605ba47e", "name": "NECK", "decimals": 18 },
     { "addr": "0x0784dbabb6c6834bddfb7cfee116ba049e5dafab", "name": "IBTC", "decimals": 18 },
     { "addr": "0x07d9e49ea402194bf48a8276dafb16e4ed633317", "name": "DALC", "decimals": 8 },
     { "addr": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f", "name": "DLT", "decimals": 18 },
