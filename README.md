@@ -1,4 +1,5 @@
 # BlueDEX
+[![Reddit](https://img.shields.io/badge/reddit-BlueDEX-red.svg)](https://www.reddit.com/r/BlueDEX)
 [![Gitter](https://badges.gitter.im/bluedex-github-io/Lobby.svg)](https://gitter.im/bluedex-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 BlueDEX is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
 
@@ -17,6 +18,6 @@ The BlueDEX Roadmap is maintained at https://bluedex.github.io/about/
 
 # Contribute
 We welcome contributions from the community. You can contribute by improving the code, documentation, or by donating. 
-BlueDEX currently interfaces with EtherDelta's original smart contract which allows BlueDEX users to trade utilizing EtherDelta's volume. However, this means that the trading fees still go to EtherDelta and BlueDEX development costs come entirely out of our pockets. If you are interested in the BlueDEX project and would like to contribute to its future, please consider donating to the following Ethereum address: <a href="https://etherscan.io/address/0x3a2aEdc3B54A99e429ae36637681d4560cE5C05b">0x3a2aEdc3B54A99e429ae36637681d4560cE5C05b</a>
+BlueDEX currently interfaces with EtherDelta's original smart contract which allows BlueDEX users to trade utilizing EtherDelta's volume. However, this means that the trading fees still go to EtherDelta and BlueDEX development costs come entirely out of our pockets. If you are interested in the BlueDEX project and would like to contribute to its future, give us a mention on Twitter :)
 
 As this is a project by the community, for the community, transactions to and from the donations address will be public and can be viewed on the blockchain. We will also keep a public ledger of how the donations are distributed. That way, donors can see exactly how their donations are helping!
