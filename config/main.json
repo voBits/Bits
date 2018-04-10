@@ -95,6 +95,7 @@
     { "addr": "0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4", "name": "J8T", "decimals": 8 },
     { "addr": "0x0d8775f648430679a709e98d2b0cb6250d2887ef", "name": "BAT", "decimals": 18 },
     { "addr": "0x0d88ed6e74bbfd96b831231638b66c05571e824f", "name": "AVT", "decimals": 18 },
+    { "addr": "0xaDa00d9468c54A17564E33058BDD9451f75462Ad", "name": "ELEM", "decimals": 10 },
     { "addr": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195", "name": "POE", "decimals": 8 },
     { "addr": "0x0f4ca92660efad97a9a70cb0fe969c755439772c", "name": "LEV", "decimals": 9 },
     { "addr": "0x0f513ffb4926ff82d7f60a05069047aca295c413", "name": "XSC", "decimals": 18 },
